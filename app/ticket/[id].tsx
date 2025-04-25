@@ -11,7 +11,7 @@ import {
 import { useLocalSearchParams, Stack, useRouter } from 'expo-router';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Share2 } from 'lucide-react-native';
-import { QRTicket } from '@/components/QRTicket';
+import { QRTicket } from '@/components/QRTickect';
 import { Button } from '@/components/Button';
 import Colors from '@/constants/colors';
 import Dimensions from '@/constants/dimensions';
